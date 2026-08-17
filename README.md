@@ -1,6 +1,6 @@
 # Hi, I'm Unice 👋
 
-I'm an AI engineer and mobile/full-stack developer in Sydney. I hold a Master of Information and Communications Technology from Western Sydney University and am currently working as a Developer/Programmer in the ACS Work Integrated Learning program.
+I'm an independent AI engineer, mobile/full-stack developer, and registered sole trader in Sydney. I hold a Master of Information and Communications Technology from Western Sydney University and build products from concept through deployment.
 
 I build practical products across LLM and agent systems, computer vision, workflow automation, immersive web experiences, and mobile games. My earlier career managing SME banking operations still shapes how I work: clear requirements, reliable delivery, and careful handling of real-world constraints.
 
@@ -14,8 +14,8 @@ I build practical products across LLM and agent systems, computer vision, workfl
 
 ## Current focus
 
-- Developer/Programmer work in the ACS WIL web development project
-- Shipping AI and mobile products through my independent product portfolio
+- Building and selling AI, web, and mobile products as a registered sole trader
+- Shipping products through my independent portfolio, including What Was Drawn, UNIKRE, and Boba Rush / Steeped
 - LLM orchestration, RAG, tool-using agents, React/TypeScript, Python, Unity/C#, and iOS delivery
 
 ## Connect
