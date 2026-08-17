@@ -1,6 +1,6 @@
 # Hi, I'm Unice 👋
 
-I'm building an independent AI and mobile product studio in Sydney, operated as a registered sole trader. I hold a Master of Information and Communications Technology from Western Sydney University and build products from concept through deployment.
+I'm an AI and full-stack developer building an independent product studio in Sydney. Working as a sole trader, I take products from concept and engineering through deployment, TestFlight, and real-world operation.
 
 Across products such as What Was Drawn, Core Memories, UNIKRE, and Boba Rush / Steeped, I work across LLM and agent systems, computer vision, workflow automation, immersive web experiences, and mobile games. My earlier career managing SME banking operations still shapes how I work: clear requirements, reliable delivery, and careful handling of real-world constraints.
 
