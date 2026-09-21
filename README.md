@@ -7,7 +7,7 @@ Across products such as What Was Drawn, Core Memories, UNIKRE, and Boba Rush / S
 ## Selected work
 
 - [Core Memories](https://unicebondoc.com) — interactive 3D AI portfolio built with React, Three.js, WebGL, and an OpenAI-powered guide.
-- [What Was Drawn](https://whatwasdrawn.com) — live gesture-based AI oracle experience using real-time hand tracking, RAG, and a mobile fallback, with a native iOS companion developed through TestFlight and App Store submission workflows.
+- [What Was Drawn](https://whatwasdrawn.com) — live gesture-based AI oracle experience using real-time hand tracking and RAG, with its production billing API migrated from Railway to AWS Lambda and API Gateway; iOS is in App Store review and Android is in closed testing.
 - [LLMs for E-Commerce Content Generation](https://github.com/unicebondoc/llm-ecommerce-analysis) — Python analysis from my Western Sydney University Master's research, awarded High Distinction (88/100).
 - [Ninja Dojo](https://github.com/unicebondoc/ninja-dojo-hackathon) — mission control for AI-assisted software delivery, built for the OpenAI Codex Hackathon Sydney 2026.
 - Boba Rush / Steeped — Unity 6 casual mobile game in active TestFlight development.
