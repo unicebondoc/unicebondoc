@@ -1,10 +1,10 @@
 # Unice Bondoc 👋
 
-Hi, I'm Unice. I'm a Sydney-based ICT graduate with a background in SME banking operations, building web products and workflows through AI-assisted development.
+Hi, I'm Unice. I'm a Sydney-based software developer and founder of ONQST, building AI-assisted applications, automation and games. My background in SME banking operations informs how I approach requirements, workflows and product delivery.
 
 My current work includes What Was Drawn, a public reflection web app; FlatSync, a public shared-household app; and LandLIT, a property-operations prototype with a fictional-data demo. I also contribute to CauseConnect through an ACS internship team.
 
-I'm interested in graduate and junior opportunities across AI automation, business systems and software development. My repositories and case studies show the purpose, my contribution, the technologies involved and the current stage of each project.
+My work connects product requirements with usable interfaces, shared data workflows, integration checks and release documentation. My repositories and case studies show the purpose, my contribution, the technologies involved and the current stage of each project.
 
 ## Selected work
 
