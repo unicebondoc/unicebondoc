@@ -1,25 +1,28 @@
-# Hi, I'm Unice 👋
+# Unice Bondoc 👋
 
-I'm an AI and full-stack developer building an independent product studio in Sydney. Working as a sole trader, I take products from concept and engineering through deployment, TestFlight, and real-world operation.
+Hi, I'm Unice. I'm a Sydney-based ICT graduate with a background in SME banking operations, building web products and workflows through AI-assisted development.
 
-Across products such as What Was Drawn, Core Memories, UNIKRE, and Boba Rush / Steeped, I work across LLM and agent systems, computer vision, workflow automation, immersive web experiences, and mobile games. My earlier career managing SME banking operations still shapes how I work: clear requirements, reliable delivery, and careful handling of real-world constraints.
+My current work includes What Was Drawn, a public reflection web app; FlatSync, a public shared-household app; and LandLIT, a property-operations prototype with a fictional-data demo. I also contribute to CauseConnect through an ACS internship team.
+
+I'm interested in graduate and junior opportunities across AI automation, business systems and software development. My repositories and case studies show the purpose, my contribution, the technologies involved and the current stage of each project.
 
 ## Selected work
 
-- [Core Memories](https://unicebondoc.com) — interactive 3D AI portfolio built with React, Three.js, WebGL, and an OpenAI-powered guide.
-- [What Was Drawn](https://whatwasdrawn.com) — live gesture-based AI oracle experience using real-time hand tracking and RAG, with its production billing API migrated from Railway to AWS Lambda and API Gateway; iOS is in App Store review and Android is in closed testing.
-- [LLMs for E-Commerce Content Generation](https://github.com/unicebondoc/llm-ecommerce-analysis) — Python analysis from my Western Sydney University Master's research, awarded High Distinction (88/100).
-- [Ninja Dojo](https://github.com/unicebondoc/ninja-dojo-hackathon) — mission control for AI-assisted software delivery, built for the OpenAI Codex Hackathon Sydney 2026.
-- Boba Rush / Steeped — Unity 6 casual mobile game in active TestFlight development.
+- [CauseConnect](https://github.com/acs-wil-wd-team1/social-awareness-web-app) - Developer / Programmer in a ten-person ACS WIL internship team. Contributions include campaign and account interfaces, regression checks and documentation. The hosted demonstration uses sample data; cloud API integration remains in progress.
+- [What Was Drawn](https://whatwasdrawn.com) - Public reflection web app with touch-based card draws, included reflection text, optional MediaPipe gestures and a personal journal. React/Capacitor and Supabase, with AWS S3/CloudFront frontend hosting and a Lambda/API Gateway billing API. Native iOS review remains pending.
+- [FlatSync](https://flatsync.onqst.com) - Shared-household workflows for invitations, permissions, chores, shopping and bills, using React/TypeScript and Supabase/PostgreSQL. Public web access; native releases remain pending.
+- [LandLIT](https://landlit-preview.vercel.app) - Next.js/TypeScript property-operations prototype for contracts, rent, utilities and monthly exports. The public demonstration uses fictional data; deployment for real customers remains pending.
+- [Core Memories](https://www.unicebondoc.com/work/#core-memories) - Optional interactive portfolio experience built with React, Three.js and WebGL, alongside a conventional hiring portfolio and CV.
 
-## Current focus
+My interactive work also includes **Steeped**, a Unity/C# game in development, and **Princess of Alemio**, a visual novel in development with a separately released audio edition. Explore the work and its current stages through [ONQST](https://onqst.com).
 
-- Growing an independent studio that builds and sells AI, web, and mobile products
-- Shipping products including What Was Drawn, UNIKRE, and Boba Rush / Steeped
-- LLM orchestration, RAG, tool-using agents, React/TypeScript, Python, Unity/C#, and iOS delivery
+## Earlier technical work
+
+- [LLMs for E-Commerce Content Generation](https://github.com/unicebondoc/llm-ecommerce-analysis) - Python analysis comparing AI-generated and human-written storefront content in a Western Sydney University capstone engagement.
+- [Ninja Dojo](https://github.com/unicebondoc/ninja-dojo-hackathon) - An AI-assisted delivery prototype with local run history and handoff prompts. Live external execution remains future work.
 
 ## Connect
 
-- Portfolio: [unicebondoc.com](https://unicebondoc.com)
+- Portfolio and CV: [unicebondoc.com](https://unicebondoc.com)
+- Products and interactive work: [onqst.com](https://onqst.com)
 - LinkedIn: [linkedin.com/in/unicebondoc](https://www.linkedin.com/in/unicebondoc)
-- GitHub: [github.com/unicebondoc](https://github.com/unicebondoc)
